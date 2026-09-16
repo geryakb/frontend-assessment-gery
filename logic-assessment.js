@@ -44,4 +44,5 @@ function processUserData(users) {
     return result;
 }
 
+/* global module */
 module.exports = { countCharacterFrequency, processUserData };
